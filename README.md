@@ -57,7 +57,7 @@ Los usuarios pueden conectar y chatear con personalidades de IA generadas dinám
 - ✅ Arquitectura escalable documentada con diagramas UML
 - ✅ Metodologías ágiles (Scrum/Kanban con Jira)
 
-[🔗 Ver proyecto](https://github.com/MaribelSR/tAInder) | [📖 Documentación]([https://github.com/MaribelSR/tAInder#readme](https://github.com/MaribelSR/tAInder/blob/master/README.md))
+[🔗 Ver proyecto](https://github.com/MaribelSR/tAInder) | [📖 Documentación](https://github.com/MaribelSR/tAInder#readme)
 
 ---
 
