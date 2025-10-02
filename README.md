@@ -113,7 +113,8 @@ Como desarrolladora, aplico estas habilidades para:
 
 ## 💼 Experiencia Profesional Relevante
 
-**🧠👥 Psicóloga Coordinadora y Responsable del Servicio Psicológico de las áreas de Intervención Social, Protección Internacional y Atención Humanitaria.** | CEAIN (Federación Andalucía Acoge) 
+**🧠👥 Psicóloga Coordinadora y Responsable del Servicio Psicológico de las áreas de Intervención Social, Protección Internacional y Atención Humanitaria.** | CEAIN (Federación Andalucía Acoge)
+
 *Enero 2022 - Diciembre 2024*
 - Coordinación de equipos multidisciplinares.
 - Gestión de proyectos complejos.
@@ -122,6 +123,7 @@ Como desarrolladora, aplico estas habilidades para:
 - Participación en proyecto SEMilla ACNUR.
 
 **🧠👥 Psicóloga Responsable del Servicio Psicosocial.** | Fundación CEPAIM  
+
 *Febrero 2020 - Octubre 2021*
 - Trabajo con poblaciones en riesgo de exclusión social.
 - Diseño y desarrollo de sesiones e intervenciones individuales y grupales.
@@ -129,6 +131,7 @@ Como desarrolladora, aplico estas habilidades para:
 - Protocolos de Atención Humanitaria.
   
 **🧠👥 Terapeuta especializada en Violencia Sexual y Sexología.** | Asociación UnaAuna
+
 *Septiembre 2019 - Febrero 2021*
 - Detección y atención de las necesidades de las víctimas y familias.
 - Crear y concretar planes de actuación para minimizar consecuencias.
