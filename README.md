@@ -52,6 +52,7 @@ Mi trayectoria de más de 7 años en psicología me aporta un valor diferencial:
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 ---
 
 ## 🎯 Proyecto Destacado
@@ -113,7 +114,7 @@ Aplicación de escritorio para documentar y localizar gatos callejeros, facilita
 🎓 **Máster en Sexología** | Universidad de Sevilla  *2018*
 
 🎓 **Grado en Psicología** | Universidad de Huelva   *2016*
----
+
 ### 🏆 Certificaciones & Cursos Destacados
 - **Programación web con JavaScript y PHP** · 65h *(2026)*
 - **IA con Python – ChatGPT** | DataHack & IBM *(2025)*
@@ -179,7 +180,7 @@ Como desarrolladora, aplico estas habilidades para:
 [![GitHub](https://img.shields.io/badge/-@MaribelSR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaribelSR)
 
 📍 **Ubicación:** Jerez de la Frontera, Andalucía, España  
-💼 **Estado:** Buscando activamente mi primera oportunidad como Desarrolladora Web Backend.  
+💼 **Estado:** Buscando activamente como Desarrolladora Web Backend.  
 🌍 **Disponibilidad:** Remoto, híbrido o presencial en Andalucía (a negociar).
 
 ---
