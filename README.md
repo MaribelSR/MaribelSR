@@ -1,19 +1,37 @@
 # 👋 ¡Hola! Soy Maribel Salvador
 
-## 💻 Backend Developer | Python | Django | Java | SQL
+## 💻 Backend Developer | Python | Django | PHP | Java | SQL
 
-Desarrolladora web especializada en backend con experiencia en Django, APIs REST y bases de datos relacionales. Cursando **2º año del CFGS de Desarrollo de Aplicaciones Web**. Actualmente ampliando conocimientos en Machine Learning, Docker y arquitecturas cloud.
-Busco mi primera oportunidad profesional donde pueda aportar código de calidad, trabajar en equipo y seguir desarrollándome como backend developer.
+Desarrolladora web especializada en backend con solida base en **Python/Django** y experiencia técnica actual en entornos **PHP** (MVC, Doctrine, Smarty). Actualmente trabajo como Desarrolladora Full Stack en **Kometasoft**, y estoy finalizando el **CFGS de Desarrollo de Aplicaciones Web**.
+
+Mi trayectoria de más de 7 años en psicología me aporta un valor diferencial: capacidad de análisis, comunicación efectiva y un enfoque centrado en las personas detrás de cada decisión técnica.
 
 >  *"Código con lógica técnica. Soluciones con perspectiva humana"*
 ---
-
+## 💼 Experiencia Profesional
+ 
+### 🖥️ Desarrolladora Web Full Stack · [Kometasoft](https://kometasoft.com)
+*marzo 2026 – Presente*
+ 
+- Desarrollo y mantenimiento de proyectos bajo arquitectura **MVC** con **PHP**, AJAX, Doctrine y Smarty.
+- Diseño e implementación de interfaces dinámicas y responsivas con **JavaScript**, jQuery y Bootstrap.
+- Gestión de bases de datos relacionales (**MySQL**) con PhpMyAdmin y DBeaver.
+- Control de versiones y trabajo colaborativo con **Git** (GitLab, Sourcetree).
+- Mantenimiento de webs en **WordPress** y estrategias **SEO** dentro del programa Kit Digital.
+ 
+---
 ## 💻 Stack Tecnológico
 
 ### Backend & Lenguajes
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -21,6 +39,7 @@ Busco mi primera oportunidad profesional donde pueda aportar código de calidad,
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Herramientas & Tecnologías
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,9 +51,7 @@ Busco mi primera oportunidad profesional donde pueda aportar código de calidad,
 ### APIs & Otros
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ---
 
 ## 🎯 Proyecto Destacado
@@ -60,32 +77,51 @@ Los usuarios pueden conectar y chatear con personalidades de IA generadas dinám
 [🔗 Ver proyecto](https://github.com/MaribelSR/tAInder) | [📖 Documentación](https://github.com/MaribelSR/tAInder#readme)
 
 ---
+ 
+### 🐱 [MichiSpotter](https://github.com/MaribelSR/MichiSpotter)
+**Sistema de registro y localización de gatos callejeros**
+ 
+Aplicación de escritorio para documentar y localizar gatos callejeros, facilitando el seguimiento de colonias felinas.
+ 
+**🛠️ Stack Técnico:**
+- **Lenguaje:** Python
+- **Base de Datos:** SQLite
+- **Testing:** Pytest (fixtures personalizados, tmp_path)
+ 
+**✨ Características:**
+- ✅ Arquitectura modular con principios de POO
+- ✅ Operaciones CRUD completas
+- ✅ Exportación de datos a CSV (pathlib)
+- ✅ Alta cobertura de tests automatizados
+ 
+[🔗 Ver proyecto](https://github.com/MaribelSR/MichiSpotter)
+ 
+---
 
 ## 📚 Actualmente Aprendiendo
 
 - 🧠 **Machine Learning con Python** (IBM SkillsBuild - Numpy, Pandas, Scikit-Learn)
 - ☁️ **AWS** para arquitecturas distribuidas y cloud
 - 🐳 **Docker** y orquestación de contenedores
-- 🌐 **JavaScript & PHP** para desarrollo full-stack
 
 ---
 
 ## 🎓 Formación Académica
 
-📚 **CFGS en Desarrollo de Aplicaciones Web** | Formación Profesional Andaluza  
-*2024 - Actualidad*
+📚 **CFGS en Desarrollo de Aplicaciones Web** | Formación Profesional Andaluza *2024 - Actualidad*
 
-🎓 **Máster en Sexología** | Universidad de Sevilla  
-*2018*
+🎓 **Máster en Sexología** | Universidad de Sevilla  *2018*
 
-🎓 **Grado en Psicología** | Universidad de Huelva  
-*2016*
-
+🎓 **Grado en Psicología** | Universidad de Huelva   *2016*
+---
 ### 🏆 Certificaciones & Cursos Destacados
-- **IBM SkillsBuild:** Python, Django, Machine Learning
-- **Accenture - Fundaula:** Java, SQL, PSeInt, Programación
-- **Inglés B2** - British Council (APTIS)
-
+- **Programación web con JavaScript y PHP** · 65h *(2026)*
+- **IA con Python – ChatGPT** | DataHack & IBM *(2025)*
+- **Usos profesionales de la IA Generativa** · 70h | BeJob & IBM *(2025)*
+- **Iniciación a la programación: Python** · 60h | BeJob & IBM *(2025)*
+- **Web Development with Python** | IBM *(2024 – 2025)*
+- **Java, SQL, PSeInt, Programación** | Accenture – Fundaula
+- **Inglés B2** · British Council (APTIS)
 ---
 
 ## 🌟 Sobre Mí
@@ -110,37 +146,19 @@ Como desarrolladora, aplico estas habilidades para:
 - 🚀 Colaborar efectivamente en equipos multidisciplinares
 
 ---
+## 💼 Experiencia Profesional Anterior Relevante
 
-## 💼 Experiencia Profesional Relevante
+**🧠👥 Psicóloga Coordinadora y Responsable del Servicio Psicológico de las áreas de Intervención Social, Protección Internacional y Atención Humanitaria.** | CEAIN (Federación Andalucía Acoge) *Enero 2022 - Diciembre 2024*
 
-**🧠👥 Psicóloga Coordinadora y Responsable del Servicio Psicológico de las áreas de Intervención Social, Protección Internacional y Atención Humanitaria.** | CEAIN (Federación Andalucía Acoge)
-
-*Enero 2022 - Diciembre 2024*
-- Coordinación de equipos multidisciplinares.
-- Gestión de proyectos complejos.
-- Sensibilización y capacitación a profesionales sobre mecanismo de detección y derivación.
-- Coordinación y colaboración con entidades y clientes externos.
-- Participación en proyecto SEMilla ACNUR.
-
-**🧠👥 Psicóloga Responsable del Servicio Psicosocial.** | Fundación CEPAIM  
-
-*Febrero 2020 - Octubre 2021*
-- Trabajo con poblaciones en riesgo de exclusión social.
-- Diseño y desarrollo de sesiones e intervenciones individuales y grupales.
-- Identificación de necesidades y desarrollo de intervención.
-- Protocolos de Atención Humanitaria.
+**🧠👥 Psicóloga Responsable del Servicio Psicosocial.** | Fundación CEPAIM  *Febrero 2020 - Octubre 2021*
   
-**🧠👥 Terapeuta especializada en Violencia Sexual y Sexología.** | Asociación UnaAuna
+**🧠👥 Terapeuta especializada en Violencia Sexual y Sexología.** | Asociación UnaAuna *Septiembre 2019 - Febrero 2021*
 
-*Septiembre 2019 - Febrero 2021*
-- Detección y atención de las necesidades de las víctimas y familias.
-- Crear y concretar planes de actuación para minimizar consecuencias.
-- Fomentar la aparición de conocimientos, actitudes y habilidades. 
 ---
 
 ## 🎤 Eventos & Comunidad
 
-📍 **PyConES 2025** - Sevilla (Asistente confirmada). 
+📍 **PyConES 2025** - Sevilla (Asistente). 
 
 ---
 
